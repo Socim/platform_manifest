@@ -458,7 +458,6 @@
   <!-- Apps -->
   <project path="packages/apps/VoicePlus" name="Mahdi-Rom/android_packages_apps_VoicePlus" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Apollo" name="Mahdi-Rom/android_packages_apps_Apollo" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/CMFileManager" name="Mahdi-Rom/android_packages_apps_CMFileManager" remote="github" revision="kk-4.4" />
   <project path="packages/apps/DSPManager" name="Mahdi-Rom/android_packages_apps_DSPManager" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Torch" name="Mahdi-Rom/android_packages_apps_Torch" remote="github" revision="kk-4.4" />
   <project path="packages/apps/ScreenRecorder" name="Mahdi-Rom/android_packages_apps_ScreenRecorder" remote="github" revision="kk-4.4" />
@@ -467,6 +466,7 @@
   <project path="packages/apps/OmniSwitch" name="Mahdi-Rom/android_packages_apps_OmniSwitch" remote="github" revision="kk-4.4" />
   <project path="packages/apps/MahdiSetupWizard" name="Mahdi-Rom/android_packages_apps_MahdiSetupWizard" remote="github" revision="kk-4.4" />
   <project path="packages/apps/MahdiCenter" name="Mahdi-Rom/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/Trebuchet" name="Mahdi-Rom/android_packages_apps_Trebuchet" remote="github" revision="kk-4.4" />
 
   <!-- H/W suppport -->
   <project path="hardware/qcom/audio-caf" name="Mahdi-Rom/android_hardware_qcom_audio-caf" groups="qcom" remote="github" revision="kk-4.4" />
@@ -482,8 +482,7 @@
   </project>
 
   <!-- Theme Manager -->
-  <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/ThemeChooser" name="Mahdi-Rom/android_packages_apps_ThemeChooser" remote="github" revision="kk-4.4" />
+  <project path="packages/providers/ThemesProvider" name="Mahdi-Rom/android_packages_providers_ThemesProvider" remote="github" revision="kk-4.4" />
 
 </manifest>
